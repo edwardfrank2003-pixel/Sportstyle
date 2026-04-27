@@ -1,0 +1,34 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #0747f7;
+}
+
+.productos {
+  display: flex;
+  gap: 20px;
+}
+
+.producto {
+  background: rgb(83, 80, 243);
+  padding: 15px;
+  border-radius: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+}
+
+#auth {
+  margin-bottom: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+}
+
+.producto {
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
